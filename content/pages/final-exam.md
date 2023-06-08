@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the final exam of the course, preparation
+  activities, the final exam with solutions, and suggestions for further study.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Final Exam
