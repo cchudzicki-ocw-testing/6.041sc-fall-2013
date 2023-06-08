@@ -5,7 +5,7 @@ description: This resource index gives users access to most of the course resour
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
-title: Resource Index!
+title: Resource Index
 uid: ae41cdf6-4102-6e80-720a-f98f3a837b7b
 ---
 This resource index gives users access to most of the course resources in a single location.
